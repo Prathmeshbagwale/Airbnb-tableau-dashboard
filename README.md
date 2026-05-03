@@ -75,8 +75,7 @@ Built using **Tableau Public**, this dashboard follows best practices in **UX de
 
 **Option 2 — Open locally:**
 1. Download [Tableau Public](https://public.tableau.com/en-us/s/download) (free)
-2. Clone this repo: `git clone https://github.com/prathmesh/airbnb-tableau-dashboard.git`
-3. Open the `.twbx` file in Tableau Public
+2. Open the `.twbx` file in Tableau Public
 
 ---
 
