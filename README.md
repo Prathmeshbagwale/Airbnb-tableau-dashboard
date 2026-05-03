@@ -74,11 +74,7 @@ An **end-to-end exploratory data analysis and interactive Tableau dashboard** bu
 **Option 2 — Open locally in Tableau:**
 1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
 2. Download [Tableau Public](https://public.tableau.com/en-us/s/download) (free)
-3. Clone this repo:
-   ```bash
-   git clone https://github.com/prathmesh/airbnb-tableau-dashboard.git
-   ```
-4. Open the `.twbx` file and re-connect to your downloaded dataset if prompted
+3. Open the `.twbx` file and re-connect to your downloaded dataset if prompted
 
 ---
 
@@ -98,7 +94,7 @@ An **end-to-end exploratory data analysis and interactive Tableau dashboard** bu
 **Prathmesh Bagwale** — Data Analytics Analyst
 - 📧 [prathmeshbagwale@gmail.com](mailto:prathmeshbagwale@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/prathmesh-bagwale)
-- 🐙 [GitHub Portfolio](https://github.com/prathmesh)
+- 🐙 [GitHub Portfolio](https://github.com/Prathmeshbagwale)
 
 > 🔎 *Open to Data Analyst, Business Analyst, and BI Developer roles.*
 
