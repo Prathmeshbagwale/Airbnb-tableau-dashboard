@@ -85,11 +85,7 @@ Built using **Tableau Public**, this dashboard follows best practices in **UX de
 **Prathmesh Bagwale** — Data Analytics Analyst
 - 📧 [prathmeshbagwale@gmail.com](mailto:prathmeshbagwale@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/prathmesh-bagwale)
-- 🐙 [GitHub Portfolio](https://github.com/prathmesh)
+- 🐙 [GitHub Portfolio](https://github.com/Prathmeshbagwale)
 
 > 🔎 *Open to Data Analyst, Business Analyst, and BI Developer roles.*
 
----
-
-## 📜 License
-MIT License — feel free to explore and learn from this project.
